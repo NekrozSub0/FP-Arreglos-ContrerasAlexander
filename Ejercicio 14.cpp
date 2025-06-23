@@ -27,7 +27,5 @@ int main() {
 
     mistrcat(str1, str2);
 
-    cout << "str1 despues de concatenar: " << str1 << endl;
-
     return 0;
 }
